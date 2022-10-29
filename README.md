@@ -1,4 +1,4 @@
-# Arabuluculuk Ücret Hesaplama 2023 - v2
+# Arabuluculuk Ücret Hesaplama 2023 - v2 (Düzeltme gelecektir)
 
 Programda iç içe if - else kullanarak çok temel, basit bir arabuluculuk ücreti hesaplama programı yaptık.
 
